@@ -61,7 +61,20 @@ main .container {
   justify-content: center;
 }
 
+
+
 /*Footer Styling */
 .footer {
   background-color: var(--primary-color);
+}
+
+.social-links {
+  font-size: 20px;
+}
+
+.social-links {
+  font-size: 20px;
+}
+.social-links:hover {
+  color: var(--secondary-color);
 }
