@@ -61,7 +61,18 @@ main .container {
   justify-content: center;
 }
 
-
+.btn {
+  background-color: var(--primary-color);
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease-in-out;
+}
+.btn:hover {
+  color: #fff;
+  background-color: var(--secondary-color);
+}
 
 /*Footer Styling */
 .footer {
@@ -78,3 +89,4 @@ main .container {
 .social-links:hover {
   color: var(--secondary-color);
 }
+
