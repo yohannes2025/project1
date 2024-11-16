@@ -31,8 +31,17 @@ h1, h2, h3, h4, h5, h6, p {
 
 #hero-index {
     background-image: url("../images/asmara-main-street.webp");
-
 }
+
+#hero-history {
+  background-image: url("../images/asmara-old-picture.webp");
+}
+
+#hero-travel {
+  background-image: url("../images/camel-for-tourists.webp");
+}
+
+
 
 .hero-content {
   padding: 10px;
