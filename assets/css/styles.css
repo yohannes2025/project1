@@ -45,3 +45,14 @@ h1, h2, h3, h4, h5, h6, p {
   text-transform: uppercase;
   transition: 2s ease-in-out;
 }
+
+main .container {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  justify-content: center;
+}
+
+/*Footer Styling */
+.footer {
+  background-color: var(--primary-color);
+}
