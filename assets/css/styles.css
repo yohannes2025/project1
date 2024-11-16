@@ -28,8 +28,10 @@ h6 {
 }
 
 .hero {
-  height: 550px;
+  height: 400px;
   background-size: cover;
+  background-position: center; 
+  
 }
 
 #hero-index {
@@ -112,19 +114,11 @@ main .container {
   }
 }
 
-
 @media only screen and (max-width: 1200px) {
   p, .form-control, .form-label {
     font-size: 1.1rem;
   }
 }
-
-@media only screen and (max-width: 768px) {
-  p, .form-control, .form-label {
-    font-size: 1rem;
-  }
-}
-
 
 
 @media only screen and (max-width: 768px) {
@@ -132,12 +126,6 @@ main .container {
     font-size: 0.9rem;
   }
 }
-
-
-
-
-
-
 
 @media only screen and (max-width: 576px) {
   #navbar {
@@ -153,13 +141,9 @@ main .container {
   .social-links {
     margin-top: 1rem;
     flex-direction: column;
-  } 
-  .quick-links {
-    font-size: 0.8rem;
   }
-  .footer-content  p {
+ 
+  .footer-content  p, p, .form-control, .form-label, .quick-links {
     font-size: 0.8rem;
-  }
-
+  }  
 }
-
