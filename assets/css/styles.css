@@ -17,20 +17,23 @@ body {
   background-color: var(--highlight-color);
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: var(--primary-font);
   color: var(--primary-color);
 }
 
-
 .hero {
   height: 550px;
-  background-size: cover;    
-  }
-
+  background-size: cover;
+}
 
 #hero-index {
-    background-image: url("../images/asmara-main-street.webp");
+  background-image: url("../images/asmara-main-street.webp");
 }
 
 #hero-history {
@@ -41,12 +44,10 @@ h1, h2, h3, h4, h5, h6 {
   background-image: url("../images/camel-for-tourists.webp");
 }
 
-
-
 .hero-content {
   padding: 10px;
   margin-top: 250px;
-  background-color: rgba(0, 0, 0, 0.6);  
+  background-color: rgba(0, 0, 0, 0.6);
 }
 
 #navbar {
@@ -101,7 +102,27 @@ main .container {
   font-size: 20px;
 }
 
-
 .social-icons li a:hover {
   background-color: var(--secondary-color);
+}
+@media (max-width: 768px) {
+  #navbar {
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .nav-item {
+    margin-bottom: 1rem;
+    background-size: ;
+  }
+
+  .social-links {
+    margin-top: 1rem;
+    flex-direction: column;
+  }
+
+  p {
+    font-size: fs-6;
+  }
 }
