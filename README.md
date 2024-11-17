@@ -150,11 +150,11 @@ All user stories were tested and verified for functionality and usability.
 
 **Asmara’s History Website**
 - **Index Page**
-  - Lighthouse: Performance (71%), Accessibility (88%), Best Practices (100%), SEO (100%).
+  - Lighthouse: Performance (88%), Accessibility (88%), Best Practices (100%), SEO (100%).
 - **History Page**
   - Lighthouse: Performance (72%), Accessibility (89%), Best Practices (100%), SEO (100%).
 - **Travel Page**
-  - Lighthouse: Performance (75%), Accessibility (88%), Best Practices (100%), SEO (100%).
+  - Lighthouse: Performance (76%), Accessibility (88%), Best Practices (100%), SEO (100%).
 - **Contact Page**
   - Lighthouse: Performance (96%), Accessibility (85%), Best Practices (100%), SEO (100%).
 
