@@ -93,7 +93,7 @@ For mobiles:
 #### **Index Page (Home)**
 - Welcoming banner with a short introduction to Asmara.
 - Highlights of featured attractions.
-- [Home Page]()
+- [Home Page](docs/screenshots/home-page.png)
 
 #### **History Page**
 - Timeline of Asmara’s historical events.
