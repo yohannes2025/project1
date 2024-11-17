@@ -117,7 +117,7 @@ The site is deployed using GitHub Pages. Visit the live site here.
 1. Copy the repository URL from the “Code” dropdown.
 2. Open your terminal and run:
 ```bash
-git clone [repository-url]
+git clone [https://github.com/yohannes2025/project1]
 ## Credits
 
 ### Code Used
