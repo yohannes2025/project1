@@ -133,7 +133,7 @@ For mobiles:
 ## **Deployment & Local Development**
 
 ### **Deployment**
-The site is deployed using GitHub Pages. Visit the live site [here](https://5501-yohannes2025-project1-op5swedema0.ws.codeinstitute-ide.net/index.html).
+The site is deployed using GitHub Pages. Visit the live site [here](https://github.com/yohannes2025/project1).
 
 ### **Local Development**
 
