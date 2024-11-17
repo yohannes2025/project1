@@ -101,7 +101,7 @@ For mobiles:
 - Timeline of Asmara’s historical events.
 - Sections showcasing notable figures and cultural artifacts.
 - [history Page desktops and tablets](docs/screenshots/history-page.png)
-- [Home Page mobiles](docs/screenshots/mobile-history.png)
+- [History Page mobiles](docs/screenshots/mobile-history.png)
 
 #### **Travel Page**
 - Travel tips, accommodations, and transportation guides.
