@@ -106,7 +106,7 @@ For mobiles:
 #### **Travel Page**
 - Travel tips, accommodations, and transportation guides.
 - [Travel Page desktops](docs/screenshots/travel-page.png)
-- [Travel Page tablets](docs/screenshots/travel-tablet.png)
+- [Travel Page tablets](docs/screenshots/tablet-travel.png)
 - [Travel Page mobiles](docs/screenshots/mobile-travel.png)
 
 #### **Contact Page**
