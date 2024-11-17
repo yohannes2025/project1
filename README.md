@@ -81,11 +81,14 @@ For desktop and tablets:
 - [History Page Wireframe](assets/docs/desktop-tablet-history.png)
 - [Travel Page Wireframe](assets/docs/desktop-travel.png)
 - [Contact Page Wireframe](assets/docs/desktop-tablet-contact.png)
+  
 For mobiles:
-- [Home Page Wireframe](assets/docs/mobile-tablet-home.png) 
-- [History Page Wireframe](assets/docs/mobile-tablet-history.png)
-- [Travel Page Wireframe](assets/docs/mobile-travel.png)
 
+- [Home Page Wireframe](assets/docs/mobile-home.png) 
+- [History Page Wireframe](assets/docs/mobile-history.png)
+- [Travel Page Wireframe](assets/docs/mobile-travel.png)
+- [Contact Page Wireframe](assets/docs/mobile-contact.png)
+  
 ### **Features**
 #### **Index Page (Home)**
 - Welcoming banner with a short introduction to Asmara.
