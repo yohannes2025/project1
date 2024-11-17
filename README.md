@@ -77,17 +77,17 @@ Asmara's History Website is designed to:
 ### **Wireframes**
 Wireframes were created for desktop, tablet, and mobile views to ensure responsive and intuitive design.
 For desktop and tablets:
-- [Home Page Wireframe](assets/docs/wireframe/desktop-tablet-home.png) 
-- [History Page Wireframe](assets/docs/wireframe/desktop-tablet-history.png)
-- [Travel Page Wireframe](assets/docs/wireframe/desktop-travel.png)
-- [Contact Page Wireframe](assets/docs/wireframe/desktop-tablet-contact.png)
+- [Home Page Wireframe](assets/docs/wireframes/desktop-tablet-home.png) 
+- [History Page Wireframe](assets/docs/wireframes/desktop-tablet-history.png)
+- [Travel Page Wireframe](assets/docs/wireframes/desktop-travel.png)
+- [Contact Page Wireframe](assets/docs/wireframes/desktop-tablet-contact.png)
   
 For mobiles:
 
-- [Home Page Wireframe](assets/docs/wireframe/mobile-home.png) 
-- [History Page Wireframe](assets/docs/wireframe/mobile-history.png)
-- [Travel Page Wireframe](assets/docs/wireframe/mobile-travel.png)
-- [Contact Page Wireframe](assets/docs/wireframe/mobile-contact.png)
+- [Home Page Wireframe](assets/docs/wireframes/mobile-home.png) 
+- [History Page Wireframe](assets/docs/wireframes/mobile-history.png)
+- [Travel Page Wireframe](assets/docs/wireframes/mobile-travel.png)
+- [Contact Page Wireframe](assets/docs/wireframes/mobile-contact.png)
   
 ### **Features**
 #### **Index Page (Home)**
