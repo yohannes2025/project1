@@ -121,7 +121,7 @@ Wireframes were created for desktop, tablet, and mobile views to ensure responsi
 ## **Deployment & Local Development**
 
 ### **Deployment**
-The site is deployed using GitHub Pages. Visit the live site [here](#).
+The site is deployed using GitHub Pages. Visit the live site [here](https://5501-yohannes2025-project1-op5swedema0.ws.codeinstitute-ide.net/index.html).
 
 ### **Local Development**
 
