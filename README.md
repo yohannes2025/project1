@@ -77,10 +77,10 @@ Asmara's History Website is designed to:
 ### **Wireframes**
 Wireframes were created for desktop, tablet, and mobile views to ensure responsive and intuitive design.
 For desktop and tablets:
-- [Home Page Wireframe](assets/docs/wireframes/desktop-tablet-home.png) 
-- [History Page Wireframe](assets/docs/wireframes/desktop-tablet-history.png)
-- [Travel Page Wireframe](assets/docs/wireframes/desktop-travel.png)
-- [Contact Page Wireframe](assets/docs/wireframes/desktop-tablet-contact.png)
+- [Home Page Wireframe](../docs/wireframes/desktop-tablet-home.png) 
+- [History Page Wireframe](../docs/wireframes/desktop-tablet-history.png)
+- [Travel Page Wireframe](../docs/wireframes/desktop-travel.png)
+- [Contact Page Wireframe](../docs/wireframes/desktop-tablet-contact.png)
   
 For mobiles:
 
@@ -93,6 +93,7 @@ For mobiles:
 #### **Index Page (Home)**
 - Welcoming banner with a short introduction to Asmara.
 - Highlights of featured attractions.
+- [Home Page]()
 
 #### **History Page**
 - Timeline of Asmara’s historical events.
