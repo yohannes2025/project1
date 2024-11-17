@@ -100,10 +100,10 @@ For mobiles:
 
 #### **Travel Page**
 - Travel tips, accommodations, and transportation guides.
-- Embedded Google Map for navigation.
 
 #### **Contact Page**
 - Contact form with fields for name, email, and message.
+- Embedded Google Map for navigation.
 - Links to social media and email.
 
 ### **Accessibility**
