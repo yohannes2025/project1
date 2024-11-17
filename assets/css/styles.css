@@ -5,8 +5,7 @@
   --primary-font: Roboto, sans-serif;
   --primary-color: #0e4962;
   --secondary-color: #e74c3c;
-  --highlight-color: #f4f3f1;
-  --highlight-color2: #c9eded;
+  --highlight-color: #f4f3f1;  
 }
 
 body {
@@ -17,12 +16,7 @@ body {
   background-color: var(--highlight-color);
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
   font-family: var(--primary-font);
   color: var(--primary-color);
 }
@@ -89,6 +83,12 @@ main .container {
   height: 100%;
   margin-bottom: 2rem;
   align-items: center;
+}
+
+.address {
+  font-weight: bold;
+  display: inline;
+  
 }
 
 /*Footer Styling */
