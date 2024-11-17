@@ -2,7 +2,7 @@
 
 ## Project Overview
 Asmara’s History Website is a dedicated platform aimed at presenting the rich history, culture, and unique architecture of Asmara, the capital city of Eritrea. This website seeks to increase global awareness of Asmara, attract tourists, and foster a sense of connection for the Eritrean diaspora. By providing valuable insights, practical travel information, and engaging content, the site highlights Asmara's significance as a historical and cultural gem.
-![Asmara's History Website](assets/docs/screenshots/home-page.png)
+![Asmara's History Website](assets/docs/screenshots/asmara-history-website.jpg)
 ## **Contents**
 - [User Experience (UX)](#user-experience-ux)
   - [Initial Discussion](#initial-discussion)
