@@ -76,6 +76,7 @@ Asmara's History Website is designed to:
 
 ### **Wireframes**
 Wireframes were created for desktop, tablet, and mobile views to ensure responsive and intuitive design.
+[Asmara's Websit Wireframe](docs/wireframe-design.pdf)
 
 ### **Features**
 #### **Index Page (Home)**
