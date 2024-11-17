@@ -84,10 +84,10 @@ For desktop and tablets:
   
 For mobiles:
 
-- [Home Page Wireframe](assets/docs/wireframes/mobile-home.png) 
-- [History Page Wireframe](assets/docs/wireframes/mobile-history.png)
-- [Travel Page Wireframe](assets/docs/wireframes/mobile-travel.png)
-- [Contact Page Wireframe](assets/docs/wireframes/mobile-contact.png)
+- [Home Page Wireframe](../docs/wireframes/mobile-home.png) 
+- [History Page Wireframe](../docs/wireframes/mobile-history.png)
+- [Travel Page Wireframe](../docs/wireframes/mobile-travel.png)
+- [Contact Page Wireframe](../docs/wireframes/mobile-contact.png)
   
 ### **Features**
 #### **Index Page (Home)**
